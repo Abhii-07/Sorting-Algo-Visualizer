@@ -6,7 +6,12 @@ body {
 	background-color: rgb(252, 250, 247);
 	font-family: Verdana, sans-serif;
 }
-
+h1{
+	text-align: center;
+	background-color: rgb(121, 57, 180);
+	padding: 10px;
+	color: white;
+}
 .head {
 	margin-top: 1vw;
 	margin-right: 2vw;
